@@ -1,0 +1,74 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+@media screen and (max-width: 640px) {
+    *{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1024px) {
+    *{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    *{
+        width: 100%;
+    }
+}
+header{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 25px;
+    
+}
+
+h1{
+    font-size: 36px;
+    font-weight: 600;
+    color: #030616;
+
+}
+
+main{
+    padding: 25px;
+    margin: 0 auto;
+    background-color: #F8FAFC;
+}
+
+h2{
+    font-size: 24px;
+    font-weight: 600;
+    color: #030616;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #030616;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #4E80EE;
+}
+
+hr{
+    border: 1px solid #D2D5DA;
+    margin: 20px 0;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
